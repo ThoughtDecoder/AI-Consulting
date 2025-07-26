@@ -57,12 +57,11 @@ nav a {
 }
 
 .hero {
-  background: url('images/logo.png') no-repeat center center;
-  background-size: contain;
   background-color: #f0f4ff;
   padding: 100px 20px;
   text-align: center;
 }
+
 
 section {
   padding: 4rem 2rem;
