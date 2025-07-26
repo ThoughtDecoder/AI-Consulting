@@ -1,0 +1,80 @@
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background-color: #f9f9f9;
+  color: #1a1a1a;
+}
+
+header {
+  background: #141414;
+  color: #fff;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav a {
+  color: #fff;
+  margin-left: 1.5rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  background-color: #f4f7ff;
+  padding: 60px 20px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  color: #1e2a78; /* cobalt blue */
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  color: #333;
+}
+
+.hero .btn {
+  background-color: #1e2a78;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.hero .btn:hover {
+  background-color: #142060;
+}
+
+section {
+  padding: 4rem 2rem;
+  max-width: 1000px;
+  margin: auto;
+}
+
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.services li {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+footer {
+  background: #141414;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
