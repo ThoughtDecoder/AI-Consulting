@@ -22,9 +22,9 @@ nav a {
 }
 
 .hero {
-  text-align: center;
-  background-color: #f4f7ff;
+  background-color: white;
   padding: 60px 20px;
+  text-align: center;
 }
 
 .hero h1 {
@@ -74,7 +74,4 @@ section h2 {
 
 footer {
   background: #141414;
-  color: white;
-  padding: 2rem;
-  text-align: center;
-}
+  color: whi
